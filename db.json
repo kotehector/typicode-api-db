@@ -57,34 +57,42 @@
   ],
   "users": [
     {
+      "id": 1,
       "username": "Héctor Menduíña",
       "email": "kotehector@gmail.com"
     },
     {
+      "id": 2,
       "username": "Zambrano",
       "email": "zambrano@gmail.com"
     },
     {
+      "id": 3,
       "username": "Acero",
       "email": "acero@gmail.com"
     },
     {
+      "id": 4,
       "username": "Lu",
       "email": "lu@gmail.com"
     },
     {
+      "id": 5,
       "username": "Dani",
       "email": "dani@gmail.com"
     },
     {
+      "id": 6,
       "username": "Alberto",
       "email": "alberto@gmail.com"
     },
     {
+      "id": 7,
       "username": "Marc",
       "email": "marc@gmail.com"
     },
     {
+      "id": 8,
       "username": "Óscar",
       "email": "oscar@gmail.com"
     }
