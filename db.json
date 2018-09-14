@@ -3,7 +3,7 @@
     {
       "id": 1,
       "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.",
-      "urlImg": "https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6LPzwrfdAhWIz4UKHauMB_cQjRx6BAgBEAU&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_73436709_stock-vector-beautiful-spring-background-with-primula-vulgaris-in-snow-greeting-cards-congratulations-with-spring.html&psig=AOvVaw1nWgdr6wDisqayfIy3w9Rv&ust=1536912297240822",
+      "urlImg": "../assets/kudos/greatjob.jpg",
       "sender": "Alberto",
       "receiver": "Zambrano",
       "date": "",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.",
-      "urlImg": "https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6LPzwrfdAhWIz4UKHauMB_cQjRx6BAgBEAU&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_73436709_stock-vector-beautiful-spring-background-with-primula-vulgaris-in-snow-greeting-cards-congratulations-with-spring.html&psig=AOvVaw1nWgdr6wDisqayfIy3w9Rv&ust=1536912297240822",
+      "urlImg": "../assets/kudos/congratulations.jpg",
       "sender": "Dani",
       "receiver": "Zambrano",
       "date": "",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.",
-      "urlImg": "https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6LPzwrfdAhWIz4UKHauMB_cQjRx6BAgBEAU&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_73436709_stock-vector-beautiful-spring-background-with-primula-vulgaris-in-snow-greeting-cards-congratulations-with-spring.html&psig=AOvVaw1nWgdr6wDisqayfIy3w9Rv&ust=1536912297240822",
+      "urlImg": "../assets/kudos/greatjob.jpg",
       "sender": "Acero",
       "receiver": "Zambrano",
       "date": "",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.",
-      "urlImg": "https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6LPzwrfdAhWIz4UKHauMB_cQjRx6BAgBEAU&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_73436709_stock-vector-beautiful-spring-background-with-primula-vulgaris-in-snow-greeting-cards-congratulations-with-spring.html&psig=AOvVaw1nWgdr6wDisqayfIy3w9Rv&ust=1536912297240822",
+      "urlImg": "../assets/kudos/thankyou.jpg",
       "sender": "Héctor",
       "receiver": "Acero",
       "date": "",
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.",
-      "urlImg": "https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6LPzwrfdAhWIz4UKHauMB_cQjRx6BAgBEAU&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_73436709_stock-vector-beautiful-spring-background-with-primula-vulgaris-in-snow-greeting-cards-congratulations-with-spring.html&psig=AOvVaw1nWgdr6wDisqayfIy3w9Rv&ust=1536912297240822",
+      "urlImg": "../assets/kudos/totallyawesome.jpg",
       "sender": "Lu",
       "receiver": "Oscar",
       "date": "",
@@ -48,7 +48,7 @@
     {
       "id": 6,
       "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.",
-      "urlImg": "https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6LPzwrfdAhWIz4UKHauMB_cQjRx6BAgBEAU&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_73436709_stock-vector-beautiful-spring-background-with-primula-vulgaris-in-snow-greeting-cards-congratulations-with-spring.html&psig=AOvVaw1nWgdr6wDisqayfIy3w9Rv&ust=1536912297240822",
+      "urlImg": "../assets/kudos/totallyawesome.jpg",
       "sender": "Zambrano",
       "receiver": "Acero",
       "date": "",
