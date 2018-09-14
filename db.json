@@ -3,7 +3,7 @@
     {
       "id": 1,
       "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.",
-      "urlImg": "../assets/kudos/greatjob.jpg",
+      "urlImg": "greatjob.jpg",
       "sender": "Alberto",
       "receiver": "Zambrano",
       "date": "",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.",
-      "urlImg": "../assets/kudos/congratulations.jpg",
+      "urlImg": "congratulations.jpg",
       "sender": "Dani",
       "receiver": "Zambrano",
       "date": "",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.",
-      "urlImg": "../assets/kudos/greatjob.jpg",
+      "urlImg": "greatjob.jpg",
       "sender": "Acero",
       "receiver": "Zambrano",
       "date": "",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.",
-      "urlImg": "../assets/kudos/thankyou.jpg",
+      "urlImg": "thankyou.jpg",
       "sender": "Héctor",
       "receiver": "Acero",
       "date": "",
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.",
-      "urlImg": "../assets/kudos/totallyawesome.jpg",
+      "urlImg": "totallyawesome.jpg",
       "sender": "Lu",
       "receiver": "Oscar",
       "date": "",
@@ -48,7 +48,7 @@
     {
       "id": 6,
       "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.",
-      "urlImg": "../assets/kudos/totallyawesome.jpg",
+      "urlImg": "totallyawesome.jpg",
       "sender": "Zambrano",
       "receiver": "Acero",
       "date": "",
