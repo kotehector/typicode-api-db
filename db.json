@@ -58,43 +58,45 @@
   "users": [
     {
       "id": 1,
-      "username": "Héctor Menduíña",
-      "email": "kotehector@gmail.com"
+      "username": "hector",
+      "email": "kotehector@gmail.com",
+      "password": 123456
     },
     {
       "id": 2,
-      "username": "Zambrano",
-      "email": "zambrano@gmail.com"
+      "username": "zambrano",
+      "email": "zambrano@gmail.com",
+      "password": 123456
     },
     {
       "id": 3,
-      "username": "Acero",
-      "email": "acero@gmail.com"
+      "username": "acero",
+      "email": "acero@gmail.com",
+      "password": 123456
     },
     {
       "id": 4,
-      "username": "Lu",
-      "email": "lu@gmail.com"
+      "username": "lu",
+      "email": "lu@gmail.com",
+      "password": 123456
     },
     {
       "id": 5,
-      "username": "Dani",
-      "email": "dani@gmail.com"
+      "username": "sofia",
+      "email": "sofia@gmail.com",
+      "password": 123456
     },
     {
       "id": 6,
-      "username": "Alberto",
-      "email": "alberto@gmail.com"
+      "username": "vanesa",
+      "email": "vanesa@gmail.com",
+      "password": 123456
     },
     {
       "id": 7,
-      "username": "Marc",
-      "email": "marc@gmail.com"
-    },
-    {
-      "id": 8,
-      "username": "Óscar",
-      "email": "oscar@gmail.com"
+      "username": "maria",
+      "email": "maria@gmail.com",
+      "password": 123456
     }
   ]
 }
