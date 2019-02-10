@@ -1,109 +1,84 @@
 {
-  "kudos": [
-    {
-      "id": 1,
-      "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
-      "urlImg": "greatjob.jpg",
-      "sender": "Alberto",
-      "receiver": "Zambrano",
-      "date": "",
-      "archived": false
-    },
-    {
-      "id": 2,
-      "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
-      "urlImg": "congratulations.jpg",
-      "sender": "Dani",
-      "receiver": "Zambrano",
-      "date": "",
-      "archived": false
-    },
-    {
-      "id": 3,
-      "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
-      "urlImg": "greatjob.jpg",
-      "sender": "Acero",
-      "receiver": "Zambrano",
-      "date": "",
-      "archived": false
-    },
-    {
-      "id": 4,
-      "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
-      "urlImg": "thankyou.jpg",
-      "sender": "Héctor",
-      "receiver": "Acero",
-      "date": "",
-      "archived": false
-    },
-    {
-      "id": 5,
-      "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
-      "urlImg": "totallyawesome.jpg",
-      "sender": "Lu",
-      "receiver": "Oscar",
-      "date": "",
-      "archived": false
-    },
-    {
-      "id": 6,
-      "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
-      "urlImg": "totallyawesome.jpg",
-      "sender": "Zambrano",
-      "receiver": "Acero",
-      "date": "",
-      "archived": false
-    }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "username": "hector",
-      "email": "kotehector@gmail.com",
-      "password": 123456,
-      "token": "wkioHAIK7zn9TkND%w"
-    },
-    {
-      "id": 2,
-      "username": "zambrano",
-      "email": "zambrano@gmail.com",
-      "password": 123456,
-      "token": "YTo%sD7FIG6V9xdAIp"
-    },
-    {
-      "id": 3,
-      "username": "acero",
-      "email": "acero@gmail.com",
-      "password": 123456,
-      "token": "0bJgRMP0rp@5hfs9LT"
-    },
-    {
-      "id": 4,
-      "username": "lu",
-      "email": "lu@gmail.com",
-      "password": 123456,
-      "token": "ec7OpEXA3#6@G!BAUd"
-    },
-    {
-      "id": 5,
-      "username": "sofia",
-      "email": "sofia@gmail.com",
-      "password": 123456,
-      "token": "t8J3Om#suMdA%yJD8G"
-    },
-    {
-      "id": 6,
-      "username": "vanesa",
-      "email": "vanesa@gmail.com",
-      "password": 123456,
-      "token": "3*ELI^eU#k7R0uJGKg"
-    },
-    {
-      "id": 7,
-      "username": "maria",
-      "email": "maria@gmail.com",
-      "password": 123456,
-      "token": "QgN241m@$7w*eh2Jsn"
-    }
-  ]
+  "user": {
+    "last_login": "2018-06-26T14:50:01.785613Z",
+    "last_name": "User"
+  },
+  "portfolios": {
+    "results": [
+      {
+        "uuid": "245b536c-6047-4e4e-8832-8cda83481301",
+        "name": "Mock portfolio",
+        "portfolio_type": "GIA",
+        "currency": {
+          "name": "Great British Pound",
+          "symbol": "£",
+          "code": "GBP"
+        },
+        "risk_level": 10,
+        "latest_allocation": {
+          "balance": 20502,
+          "invested": 37301,
+          "earnings": -16799
+        },
+        "color": "COLOR01",
+        "status": "ACTIVE",
+        "can_deposit": false,
+        "created": "2018-06-21T10:22:02.019933Z",
+        "activated": "2018-05-21T00:00:00.000000Z",
+        "deleted": null,
+        "autodeposit_amount": 613,
+        "autodeposit_date": "2018-05-22",
+        "autodeposit_frequency": 1
+      }
+    ]
+  },
+  "transfers": {
+    "results": [
+      {
+        "item": "AUTODEPOSIT",
+        "amount": 613,
+        "status": "CANCELLED",
+        "portfolio": {
+          "name": "Mock Data's portfolio",
+        },
+        "created": "2018-07-02T07:30:49.777466Z"
+      },
+      {
+        "item": "AUTODEPOSIT",
+        "amount": 613,
+        "status": "CANCELLED",
+        "portfolio": {
+          "name": "Mock Data's portfolio",
+        },
+        "created": "2018-07-02T07:30:32.956201Z"
+      },
+      {
+        "item": "AUTODEPOSIT",
+        "amount": 613,
+        "status": "CANCELLED",
+        "portfolio": {
+          "name": "Mock Data's portfolio",
+        },
+        "created": "2018-07-02T07:30:16.051068Z"
+      },
+      {
+        "item": "CHARGE",
+        "amount": 12.037603,
+        "status": "PENDING",
+        "portfolio": {
+          "name": "Mock Data's portfolio",
+        },
+        "created": "2018-07-01T04:00:10.001435Z"
+      },
+      {
+        "item": "AUTODEPOSIT",
+        "amount": 613,
+        "status": "CANCELLED",
+        "portfolio": {
+          "name": "Mock Data's portfolio",
+        },
+        "created": "2018-06-29T07:30:14.399965Z"
+      }
+    ]
+  }
 }
