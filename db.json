@@ -39,7 +39,7 @@
         "amount": 613,
         "status": "CANCELLED",
         "portfolio": {
-          "name": "Mock Data's portfolio",
+          "name": "Mock Data's portfolio"
         },
         "created": "2018-07-02T07:30:49.777466Z"
       },
@@ -48,7 +48,7 @@
         "amount": 613,
         "status": "CANCELLED",
         "portfolio": {
-          "name": "Mock Data's portfolio",
+          "name": "Mock Data's portfolio"
         },
         "created": "2018-07-02T07:30:32.956201Z"
       },
@@ -57,7 +57,7 @@
         "amount": 613,
         "status": "CANCELLED",
         "portfolio": {
-          "name": "Mock Data's portfolio",
+          "name": "Mock Data's portfolio"
         },
         "created": "2018-07-02T07:30:16.051068Z"
       },
@@ -66,7 +66,7 @@
         "amount": 12.037603,
         "status": "PENDING",
         "portfolio": {
-          "name": "Mock Data's portfolio",
+          "name": "Mock Data's portfolio"
         },
         "created": "2018-07-01T04:00:10.001435Z"
       },
@@ -75,7 +75,7 @@
         "amount": 613,
         "status": "CANCELLED",
         "portfolio": {
-          "name": "Mock Data's portfolio",
+          "name": "Mock Data's portfolio"
         },
         "created": "2018-06-29T07:30:14.399965Z"
       }
